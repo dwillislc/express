@@ -1,0 +1,19 @@
+{
+  "name": "treehouse-projects",
+  "version": "1.0.0",
+  "description": "Static express site for treehouse projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwillislc/express.git"
+  },
+  "author": "David Willis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwillislc/express/issues"
+  },
+  "homepage": "https://github.com/dwillislc/express#readme"
+}
