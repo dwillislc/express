@@ -3,57 +3,83 @@
 		"properties": [
 			{
 				"id": 0,
-				"project_name": "",
-				"description": "",
-				"technologies": "",
-				"live_link": "",
-				"github_link": "",
-				"image_urls": ""
+				"project_name": "Random Quote Generator",
+				"description": "Displays my favorite quotes randomly with different background colors.",
+				"technologies": "HTML, CSS, JS",
+				"live_link": "https://dwillislc.github.io/random-quote-v2/",
+				"github_link": "https://github.com/dwillislc/random-quote-v2",
+				"image_urls": [
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-1/p1-landing.png",
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-1/p1-quote1.png",
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-1/p1-quote2.png",
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-1/p1-quote3.png"
+				]
 			}, 
 			{
 				"id": 1,
-				"project_name": "",
-				"description": "",
-				"technologies": "",
-				"live_link": "",
-				"github_link": "",
-				"image_urls": ""
+				"project_name": "Pagination and Content Filter",
+				"description": "Employee directory where you can click through an entire list.",
+				"technologies": "HTML, CSS, JS, jquery",
+				"live_link": "https://dwillislc.github.io/content-pagination-filter/",
+				"github_link": "https://github.com/dwillislc/content-pagination-filter",
+				"image_urls": [
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-2/p2-landing.png",
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-2/p2-last.png",
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-2/p2-search.png"
+				]
 			},
 			{
 				"id": 2,
-				"project_name": "",
-				"description": "",
-				"technologies": "",
-				"live_link": "",
-				"github_link": "",
-				"image_urls": ""
+				"project_name": "Interactive Form",
+				"description": "An interactive form that specifies and suggests which fields need to be filled.",
+				"technologies": "HTML, CSS, JS, jquery",
+				"live_link": "https://dwillislc.github.io/interactive-form/",
+				"github_link": "https://github.com/dwillislc/interactive-form",
+				"image_urls": [
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-3/p3-form.png",
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-3/p3-landing.png",
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-3/p3-warning.png"
+				]
 			},
 			{
 				"id": 3,
-				"project_name": "",
-				"description": "",
-				"technologies": "",
-				"live_link": "",
-				"github_link": "",
-				"image_urls": ""
+				"project_name": "Tic-Tac-Toe",
+				"description": "Tic-tac-toe game",
+				"technologies": "HTML, CSS, JS, jquery",
+				"live_link": "https://dwillislc.github.io/tic-tac-toe/",
+				"github_link": "https://github.com/dwillislc/tic-tac-toe",
+				"image_urls": [
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-4/p4-landing.png",
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-4/p4-owin.png",
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-4/p4-start.png",
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-4/p4-win.png"
+				]			
 			},
 			{
 				"id": 4,
-				"project_name": "",
-				"description": "",
-				"technologies": "",
-				"live_link": "",
-				"github_link": "",
-				"image_urls": ""
+				"project_name": "Employee Directory",
+				"description": "Use a public API to create an employee directory",
+				"technologies": "HTML, CSS, JS, jquery",
+				"live_link": "https://dwillislc.github.io/employee-directory/",
+				"github_link": "https://github.com/dwillislc/employee-directory",
+				"image_urls": [
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-5/p5-landing.png",
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-5/p5-overview.png"
+				]
 			},
 			{
 				"id": 5,
-				"project_name": "",
-				"description": "",
-				"technologies": "",
-				"live_link": "",
-				"github_link": "",
-				"image_urls": ""
+				"project_name": "Content Scraper",
+				"description": "Scrap an ecommerce website to get the prices of all the shirts on sale",
+				"technologies": "JS, Node",
+				"live_link": "https://dwillislc.github.io/content-scraper/",
+				"github_link": "https://github.com/dwillislc/content-scraper",
+				"image_urls": [
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-6/p6-app.png",
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-6/p6-js.png",
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-6/p6-landing.png",
+					"/Users/davidwillis/MyCode/Fullstack JS Techdegree/Unit 7 - Express/express/image/project-6/p6-package.png"
+				]
 			}
 		]
 	}
