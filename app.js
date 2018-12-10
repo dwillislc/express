@@ -1,6 +1,5 @@
 const express = require('express'); 
 const bodyParser = require('body-parser');
-const { data } = require('./data.json');
 
 // Require route files
 const mainRoutes = require('./routes');
@@ -17,7 +16,7 @@ app.set('view engine', 'pug');
 
 // Use routes for requests to the application 
 app.use(mainRoutes);  
-
+app.use('/projects', projectRoutes);
 
 app.listen(3000, () => {
 	console.log('The application is running on localhost:3000!')
