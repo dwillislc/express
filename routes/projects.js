@@ -3,9 +3,9 @@ const router = express.Router();
 const { data } = require('../data/data.json'); 
 const { projects } = data; 
 
-router.get('/', (req, res) => {
+router.get('/', (req, res) => {	
 	res.send({
-		data	
+		projects
 	});	
 }); 
 
