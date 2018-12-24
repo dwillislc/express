@@ -1,0 +1,8 @@
+extends layout
+block content
+    h3 Uh-oh, looks like you took a wrong turn:
+    a.button-primary-small(href='/') Go Home
+    br
+    br
+    h3= `${error.message} - Status: ${error.status}`
+    
